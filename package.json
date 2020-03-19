@@ -1,0 +1,42 @@
+{
+  "name": "piex-snippets",
+  "version": "0.0.3",
+  "description": "Code snippets for piex",
+  "displayName": "Piex Code Snippets",
+  "icon": "images/piex.png",
+  "publisher": "MervynZhang",
+  "galleryBanner": {
+    "theme": "light"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piex/piex-snippets.git"
+  },
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "keywords": [
+    "snippets",
+    "react",
+    "vscode",
+    "typescript",
+    "vscode-extension"
+  ],
+  "author": "piex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piex/piex-snippets/issues"
+  },
+  "homepage": "https://github.com/piex/piex-snippets#readme",
+  "contributes": {
+    "snippets": [
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/typescriptreact.json"
+      }
+    ]
+  }
+}

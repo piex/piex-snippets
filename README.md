@@ -22,3 +22,4 @@ export default Comp;
 const $1 = useCallback(() => {
   // do something here
 }, []);
+```

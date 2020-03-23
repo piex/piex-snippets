@@ -15,5 +15,13 @@
       "export default ${1:Comp};"
     ],
     "description": "Create a function component."
+  },
+  "useCallback": {
+    "prefix": "ucb",
+    "boxy": [
+      "const $1 = useCallback(() => {",
+      "  ${2:// do something here}",
+      "}, []);"
+    ]
   }
 }

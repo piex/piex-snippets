@@ -15,3 +15,10 @@ const Comp: FC<ICompProps> = () => {
 
 export default Comp;
 ```
+
+### ucb
+
+```tsx
+const $1 = useCallback(() => {
+  // do something here
+}, []);

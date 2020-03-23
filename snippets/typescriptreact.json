@@ -24,5 +24,12 @@
       "}, []);"
     ],
     "description": "Create a React useCallback statement."
+  },
+  "useMem0": {
+    "prefix": "um",
+    "body": [
+      "const $1 = useMemo(() => ${2:/* return a value */}, []);"
+    ],
+    "description": "Create a React useCallback statement."
   }
 }

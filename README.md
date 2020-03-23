@@ -23,3 +23,9 @@ const $1 = useCallback(() => {
   // do something here
 }, []);
 ```
+
+### um
+
+```tsx
+const $1 = useMemo(() => ${2:/* return a value */}, []);
+```

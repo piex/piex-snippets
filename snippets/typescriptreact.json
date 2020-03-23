@@ -22,6 +22,7 @@
       "const $1 = useCallback(() => {",
       "  ${2:// do something here}",
       "}, []);"
-    ]
+    ],
+    "description": "Create a React useCallback statement."
   }
 }

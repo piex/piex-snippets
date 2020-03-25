@@ -40,7 +40,7 @@
     "description": "Create a React useCallback statement."
   },
   "useReducer": {
-    "prefix": "us",
+    "prefix": "ur",
     "body": [
       "const [toggle, setToggle] = useReducer((state) => !state, ${1:false});"
     ],

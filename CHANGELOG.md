@@ -7,3 +7,4 @@
 - `imfc` add props
 - add `ucb` snippet
 - add `um` snippet
+- add `us` snippet

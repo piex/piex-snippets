@@ -29,3 +29,9 @@ const $1 = useCallback(() => {
 ```tsx
 const $1 = useMemo(() => ${2:/* return a value */}, []);
 ```
+
+### us
+
+```tsx
+const [state, setState] = useState(0);
+```

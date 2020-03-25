@@ -16,6 +16,13 @@
     ],
     "description": "Create a function component."
   },
+  "useState": {
+    "prefix": "us",
+    "body": [
+      "const [${1:state}, set${1:State}] = useState(${2:0});"
+    ],
+    "description": "Create a React useState statement."
+  },
   "useCallback": {
     "prefix": "ucb",
     "body": [

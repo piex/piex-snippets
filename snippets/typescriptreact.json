@@ -38,5 +38,12 @@
       "const $1 = useMemo(() => ${2:/* return a value */}, []);"
     ],
     "description": "Create a React useCallback statement."
+  },
+  "useReducer": {
+    "prefix": "us",
+    "body": [
+      "const [toggle, setToggle] = useReducer((state) => !state, ${1:false});"
+    ],
+    "description": "Create a React useuseReducerState statement."
   }
 }

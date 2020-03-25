@@ -35,3 +35,9 @@ const $1 = useMemo(() => ${2:/* return a value */}, []);
 ```tsx
 const [state, setState] = useState(0);
 ```
+
+### ur
+
+```tsx
+const [toggle, setToggle] = useReducer((state) => !state, false);
+```

@@ -8,3 +8,4 @@
 - add `ucb` snippet
 - add `um` snippet
 - add `us` snippet
+- add `ur` snippet

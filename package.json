@@ -1,9 +1,9 @@
 {
   "name": "piex-snippets",
-  "version": "0.0.16",
+  "version": "0.0.15",
   "description": "Code snippets for piex",
   "displayName": "Piex Code Snippets",
-  "icon": "images/piex.svg",
+  "icon": "images/piex.png",
   "publisher": "MervynZhang",
   "galleryBanner": {
     "theme": "light"

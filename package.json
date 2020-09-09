@@ -3,7 +3,7 @@
   "version": "0.0.15",
   "description": "Code snippets for piex",
   "displayName": "Piex Code Snippets",
-  "icon": "images/piex.png",
+  "icon": "images/piex.svg",
   "publisher": "MervynZhang",
   "galleryBanner": {
     "theme": "light"

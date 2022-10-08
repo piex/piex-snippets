@@ -2,7 +2,20 @@
   "Import Function Component": {
     "prefix": "imfc",
     "body": [
-      "import React, { FC } from 'react';",
+      "import { FC } from 'react';",
+      "",
+      "const ${1:Comp}: FC = () => {",
+      "  return ($3);",
+      "};",
+      "",
+      "export default ${1:Comp};"
+    ],
+    "description": "Create a pure function component without props."
+  },
+  "Import Function Component With Props": {
+    "prefix": "imfcp",
+    "body": [
+      "import { FC } from 'react';",
       "",
       "interface ${1:Comp}Props {",
       "$2",

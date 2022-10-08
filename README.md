@@ -3,7 +3,19 @@
 ### imfc
 
 ```tsx
-import React, { FC } from 'react';
+import { FC } from 'react';
+
+const Comp: FC = () => {
+  return ();
+};
+
+export default Comp;
+```
+
+### imfcp
+
+```tsx
+import { FC } from 'react';
 
 interface ICompProps {
 
